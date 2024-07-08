@@ -21,13 +21,12 @@ $$
 
 上图为人工势场法规划的路径，下图为人工势场法求得的引力和斥力叠加后的效果。
 
-![势场](C:\Users\lenovo\Desktop\人工势场\势场.png)
+![势场](https://github.com/Maxwell-Rabbit/Path-planning-method-based-on-artificial-potential-field/blob/main/photo/%E5%8A%BF%E5%9C%BA.png)
 
 引力场图像如下图所示。
 
-![引力](C:\Users\lenovo\Desktop\人工势场\引力.png)
+![引力](https://github.com/Maxwell-Rabbit/Path-planning-method-based-on-artificial-potential-field/blob/main/photo/%E5%BC%95%E5%8A%9B.png)
 
 斥力场图像如下图所示。
 
-![斥力png](C:\Users\lenovo\Desktop\人工势场\斥力png.png)
-
+![斥力png](https://github.com/Maxwell-Rabbit/Path-planning-method-based-on-artificial-potential-field/blob/main/photo/%E6%96%A5%E5%8A%9Bpng.png)
