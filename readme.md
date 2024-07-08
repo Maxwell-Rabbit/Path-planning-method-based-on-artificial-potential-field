@@ -17,7 +17,7 @@ $$
 
 此程序运行后会显示障碍物图片，在图片中选择起点和终点后按回车，会出现引力场、斥力场、人工势场和路径规划图。运行结果如下所示。
 
-![轨迹](C:\Users\lenovo\Desktop\人工势场\轨迹.png)
+![轨迹]([C:\Users\lenovo\Desktop\人工势场\轨迹.png](https://github.com/Maxwell-Rabbit/Path-planning-method-based-on-artificial-potential-field/blob/main/photo/%E8%BD%A8%E8%BF%B9.png))
 
 上图为人工势场法规划的路径，下图为人工势场法求得的引力和斥力叠加后的效果。
 
